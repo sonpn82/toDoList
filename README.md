@@ -1,5 +1,5 @@
-# Source:  The advanced web developer bootcamp by Colt & friends at Udemy.com
 # toDoList - a single page application
+## Source:  The advanced web developer bootcamp by Colt & friends at Udemy.com
 Create a simple "to do" list from Nodejs, MongoDb & JQuery.
 User can:
   - Enter a "to do" in the input field, click enter and the to do will go to a list.
